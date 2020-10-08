@@ -1,0 +1,16 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "Anagram generator for osX",
+  "main": "first.js",
+  "scripts": {
+    "test": "console.log(\"test\")"
+  },
+  "author": "Owen",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
